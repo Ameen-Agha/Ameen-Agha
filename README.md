@@ -2,7 +2,7 @@
 
 # Hello 👋, I'm Ameen Agha
 
-## About Me:
+## About Me
 
 I am a recent Computer Science graduate from the American University of Beirut  
 I have a strong passion for software engineering and always aim to grow in the  
