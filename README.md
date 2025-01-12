@@ -54,4 +54,3 @@ embracing new technologies and contributing to cutting-edge projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ameen-agha&show_icons=true&locale=en&layout=compact)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameen-agha&show_icons=true&locale=en)
-
