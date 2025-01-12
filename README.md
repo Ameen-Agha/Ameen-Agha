@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a recent Computer Science graduate from the American University of Beirut.  
+I am a recent Computer Science graduate from the American University of Beirut  
 I have a strong passion for software engineering and always aim to grow in the  
 field.
 
@@ -17,7 +17,7 @@ skills by embracing new technologies and contributing to cutting-edge projects.
 - 🔭 I’ve recently started working with the **MIT Emerging Talent program**  
 - 💬 You can ask me about **Java, E-commerce, and Fintech**  
 - 🌱 I’m currently learning **Python and Data Science**  
-- ⚡ Fun fact: I play **rugby** on a national and international professional level  
+- ⚡ Fun fact: I play **rugby** on an international professional level  
 - 📫 You can reach me through  
   [ameenagha03@gmail.com](mailto:ameenagha03@gmail.com)
 
@@ -56,4 +56,3 @@ skills by embracing new technologies and contributing to cutting-edge projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ameen-agha&show_icons=true&locale=en&layout=compact)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameen-agha&show_icons=true&locale=en)
-
