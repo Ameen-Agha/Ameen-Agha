@@ -2,16 +2,14 @@
 
 # Hello 👋, I'm Ameen Agha
 
-### A recent Computer Science graduate from the American University of Beirut who 
-### has a strong passion for software engineering and always aims to grow bigger 
-### in the field.
+## About Me
 
-💡 Driven by curiosity and innovation, I strive to create impactful solutions that 
-address real-world challenges. My goal is to continuously develop my skills by 
-embracing new technologies and contributing to cutting-edge projects in technology.
+I am a recent Computer Science graduate from the American University of Beirut.  
+I have a strong passion for software engineering and always aim to grow in the field.
 
-<img align="right" alt="Coding" width="400" 
-src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+💡 Driven by curiosity and innovation, I strive to create impactful solutions that  
+address real-world challenges. My goal is to continuously develop my skills by  
+embracing new technologies and contributing to cutting-edge projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ameen-agha&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -23,93 +21,37 @@ src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 ---
 
-### Connect with me on LinkedIn:
-<p align="center">
-  <a href="https://linkedin.com/in/ameen-agha" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/
-    master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ameen-agha)
 
 ---
 
-### Languages and Tools:
-<p>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/
-    android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" 
-    alt="Blender" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-    alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/
-    cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" 
-    height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" 
-    width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" 
-    height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/
-    html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/
-    java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/
-    linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
-    alt="MATLAB" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/
-    mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/
-    mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/
-    nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/
-    python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/
-    react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-    alt="Scikit-learn" width="40" height="40" />
-  </a>
-</p>
+## Languages and Tools
+
+- ![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=android)  
+- ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat&logo=blender)  
+- ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
+- ![C++](https://img.shields.io/badge/-C++-purple?style=flat&logo=cplusplus)  
+- ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)  
+- ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)  
+- ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git)  
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+- ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
+- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)  
+- ![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat&logo=mathworks)  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)  
+- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)  
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
+- ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
+- ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange?style=flat&logo=scikitlearn)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-agha&show_icons=true&locale=en&layout=compact" 
-  alt="Top Languages" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ameen-agha&show_icons=true&locale=en" 
-  alt="GitHub Stats" />
-</div>
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ameen-agha&show_icons=true&locale=en&layout=compact)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameen-agha&show_icons=true&locale=en)
+
