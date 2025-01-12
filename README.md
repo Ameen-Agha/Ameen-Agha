@@ -5,11 +5,12 @@
 ## About Me
 
 I am a recent Computer Science graduate from the American University of Beirut.  
-I have a strong passion for software engineering and always aim to grow in the field.
+I have a strong passion for software engineering and always aim to grow in the  
+field.
 
-💡 Driven by curiosity and innovation, I strive to create impactful solutions that  
-address real-world challenges. My goal is to continuously develop my skills by  
-embracing new technologies and contributing to cutting-edge projects.
+💡 Driven by curiosity and innovation, I strive to create impactful solutions  
+that address real-world challenges. My goal is to continuously develop my  
+skills by embracing new technologies and contributing to cutting-edge projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ameen-agha&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -17,7 +18,8 @@ embracing new technologies and contributing to cutting-edge projects.
 - 💬 You can ask me about **Java, E-commerce, and Fintech**  
 - 🌱 I’m currently learning **Python and Data Science**  
 - ⚡ Fun fact: I play **rugby** on a national and international professional level  
-- 📫 You can reach me through [ameenagha03@gmail.com](mailto:ameenagha03@gmail.com)
+- 📫 You can reach me through  
+  [ameenagha03@gmail.com](mailto:ameenagha03@gmail.com)
 
 ---
 
@@ -54,3 +56,4 @@ embracing new technologies and contributing to cutting-edge projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ameen-agha&show_icons=true&locale=en&layout=compact)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameen-agha&show_icons=true&locale=en)
+
